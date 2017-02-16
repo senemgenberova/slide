@@ -1,0 +1,28 @@
+.main {
+    width: 1000px;
+    margin: 0 auto;
+}
+
+.top {
+    height: 20px;
+    background: black
+}
+
+.top .logo {
+    color: white;
+    font-size: 20px;
+}
+
+.top .menu ul {
+    list-style-type: none;
+    color: lightgray;
+}
+
+.menu ul li {
+    padding: 5px;
+    display: inline-block;
+}
+
+.clear {
+    clear: both;
+}
